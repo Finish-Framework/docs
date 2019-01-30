@@ -1,6 +1,6 @@
 {
   "name": "@finish/docs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Documentation for Finish Framework",
   "main": "",
   "dependencies": {},
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/Finish-Framework/docs"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ['Documentation', 'Finish', 'UI', 'Framework'],
+  "author": "james.johnson@excellentingenuity.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Finish-Framework/docs/issues"
