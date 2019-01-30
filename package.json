@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Finish-Framework/docs"
   },
-  "keywords": ['Documentation', 'Finish', 'UI', 'Framework'],
+  "keywords": ["Documentation", "Finish", "UI", "Framework"],
   "author": "james.johnson@excellentingenuity.com",
   "license": "MIT",
   "bugs": {
