@@ -1,0 +1,20 @@
+{
+  "name": "@finish/docs",
+  "version": "1.0.0",
+  "description": "Documentation for Finish Framework",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finish-Framework/docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Finish-Framework/docs/issues"
+  },
+  "homepage": "https://github.com/Finish-Framework/docs.git#readme"
+}
